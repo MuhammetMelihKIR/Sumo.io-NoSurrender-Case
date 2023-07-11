@@ -18,7 +18,7 @@ https://github.com/MuhammetMelihKIR/Sumo.io-NoSurrender-Case/assets/120091310/af
 
 ## Game Screen
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img 
-<img src="./ScreenShot/1.png" alt="racegif" width="24%"/>
+
 <img src="./ScreenShot/2.png" alt="racegif" width="24%" />
 <img src="./ScreenShot/3.png" alt="racegif" width="24%" />
 <img src="./ScreenShot/9.png" alt="racegif" width="24%"/>
