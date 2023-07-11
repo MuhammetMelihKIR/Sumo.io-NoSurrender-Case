@@ -1,19 +1,10 @@
 # Sumo.io-NoSurrender-Case
 
-## Project Description
-
-
-# PLAY
-
-
-
 # VIDEO
 
 
+https://github.com/MuhammetMelihKIR/Sumo.io-NoSurrender-Case/assets/120091310/470a8ae2-6ed9-4f6e-8650-cf6e8beb27ec
 
-
-
-https://github.com/MuhammetMelihKIR/Sumo.io-NoSurrender-Case/assets/120091310/afa1dddf-257e-4132-99b7-e0df59a00909
 
 
 ## Game Screen
