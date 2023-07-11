@@ -4,7 +4,11 @@ Oyunda kullanılan tasarımlar oyunun verdiği 3D objelerden (küp,silindir vs.)
 https://www.youtube.com/watch?v=qegDbBmZzEA
 # VIDEO
 
-https://github.com/MuhammetMelihKIR/Sumo.io-NoSurrender-Case/assets/120091310/470a8ae2-6ed9-4f6e-8650-cf6e8beb27ec
+
+
+
+https://github.com/MuhammetMelihKIR/Sumo.io-NoSurrender-Case/assets/120091310/732d1a4e-784a-4ca8-9ff7-3384ead9c4f5
+
 
 
 
