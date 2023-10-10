@@ -1,5 +1,5 @@
 # Sumo.io-NoSurrender-Case
-Oyunda kullanılan tasarımlar oyunun verdiği 3D objelerden (küp,silindir vs.) tasarlanmıştır.
+
 
 https://www.youtube.com/watch?v=qegDbBmZzEA
 # VIDEO
